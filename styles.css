@@ -14,20 +14,15 @@
   line-height: 1;
   margin: 20px;
 }
-
 .header {
-  background-image: url("images/coverimage.jpg");
+  background-image: url("./images/coverimage.jpg");
   background-size: cover;
   background-position: center;
   padding: 200px 200px;
   text-align: center;
   color: white;
 }
-@media (max-width: 960px) {
-  header {
-    padding: 20px;
-  }
-}
+
 .footer {
   text-decoration: none;
 }

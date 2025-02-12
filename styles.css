@@ -25,4 +25,19 @@
 
 .footer {
   text-decoration: none;
+  color: grey;
+  font-size: 10px;
+}
+.hero header {
+  text-align: center;
+  margin-top: 50px;
+}
+li {
+  text-decoration: none;
+  list-style-type: none;
+  text-align: center;
+}
+.container {
+  text-align: center;
+  margin: 0 auto;
 }

@@ -1,6 +1,6 @@
 body {
   font-family: "Lilita One", serif;
-  font-weight: 400;
+  font-weight: 200;
   font-style: normal;
 }
 .container {
@@ -11,6 +11,7 @@ body {
   line-height: 1;
   margin: 20px;
   display: block;
+  color: black;
 }
 .header h1 {
   font-weight: 700;
@@ -21,6 +22,7 @@ body {
   font-family: "Lilita One", serif;
   font-weight: 400;
   font-style: normal;
+  color: black;
 }
 .header h3 {
   font-weight: 500;
@@ -28,6 +30,7 @@ body {
   line-height: 1;
   margin: 20px;
   display: block;
+  color: black;
 }
 .header {
   background-image: url("./images/coverimage.jpg");
@@ -35,7 +38,7 @@ body {
   background-position: center;
   padding: 200px 200px;
   text-align: center;
-  color: white;
+  color: black;
 }
 
 .footer {
@@ -60,6 +63,7 @@ body {
   padding: 10px 20px;
   border: none;
   box-shadow: 10px;
+  justify-content: center;
 }
 
 ul {

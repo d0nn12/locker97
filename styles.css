@@ -9,7 +9,7 @@ body {
 
 .header h4 {
   line-height: 1;
-  margin: 20px;
+  margin: 10px;
   display: block;
   color: black;
 }
@@ -17,7 +17,7 @@ body {
   font-weight: 700;
   font-size: 50px;
   line-height: 1;
-  margin: 20px;
+  margin: 0px;
   display: block;
   font-family: "Lilita One", serif;
   font-weight: 400;

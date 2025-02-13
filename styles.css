@@ -127,4 +127,7 @@ p {
   footer {
     margin: auto;
   }
+  .btn {
+    font-size: 10px;
+  }
 }

@@ -33,12 +33,13 @@ body {
   color: black;
 }
 .header {
-  background-image: url("./images/coverimage.jpg");
+  background-image: url("./images/coverimage1.jpeg");
   background-size: cover;
   background-position: center;
   padding: 100px 100px;
   text-align: center;
   color: black;
+  display: block;
 }
 
 .footer {
